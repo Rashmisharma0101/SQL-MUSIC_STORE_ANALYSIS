@@ -21,6 +21,10 @@ The database contains tables such as `customers`, `invoices`, `invoice_line`, `t
 - CTEs
 - Window functions (RANK, ROW_NUMBER)
 
+**Project Highlights**
+- Used CTEs and window functions to identify most popular genres by country.
+- Aggregated customer revenue to understand buying behaviors.
+
 ### How to Run
 1. Load the database in MySQL Workbench
 2. Open `queries.sql`
