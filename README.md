@@ -14,3 +14,14 @@ The database contains tables such as `customers`, `invoices`, `invoice_line`, `t
 - Customer who spent most in each country
 - Most popular genre for each country
 - Amount spent by each customer on the best selling artist
+
+### Skills Used
+- JOINS
+- GROUP BY and aggregations
+- CTEs
+- Window functions (RANK, ROW_NUMBER)
+
+### How to Run
+1. Load the database in MySQL Workbench
+2. Open `queries.sql`
+3. Run each block one by one
