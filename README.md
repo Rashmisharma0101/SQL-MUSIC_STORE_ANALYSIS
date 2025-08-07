@@ -27,7 +27,7 @@ The database contains tables such as `customers`, `invoices`, `invoice_line`, `t
 
 ###  Sample Output
 Return email, first name, last name , genere of all rock music listeners, ordered alphabetically by email starting with A
-[Query result] https://github.com/Rashmisharma0101/SQL-MUSIC_STORE_ANALYSIS/blob/main/Screenshot%20-%20Sample%20output.jpg
+![Sample Output](https://github.com/Rashmisharma0101/SQL-MUSIC_STORE_ANALYSIS/blob/main/Screenshot%20-%20Sample%20output.jpg?raw=true)
 
 ### How to Run
 1. Load the database in MySQL Workbench
