@@ -4,7 +4,7 @@
 This project analyzes a music store's sales and customer behavior using SQL.  
 The database contains tables such as `customers`, `invoices`, `invoice_line`, `tracks`, `genres`, album, playlist, playlist_track and `artists`.
 
-#### Objective:
+### Objective:
 - Country having best customers
 - Which country has the most invoices
 - Rock music listeners, ordered alphabetically by email
@@ -21,7 +21,7 @@ The database contains tables such as `customers`, `invoices`, `invoice_line`, `t
 - CTEs
 - Window functions (RANK, ROW_NUMBER)
 
-**Project Highlights**
+### Project Highlights
 - Used CTEs and window functions to identify most popular genres by country.
 - Aggregated customer revenue to understand buying behaviors.
 
